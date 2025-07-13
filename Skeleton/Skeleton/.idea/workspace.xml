@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3fae5041-3e0f-4235-9555-642934fd52b9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2r88kjP8Uk2pCwJet9OLoHmqlld" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.ALUTest.alu.executor": "Run",
+    "JUnit.ALUTest.executor": "Run",
+    "JUnit.AdderTest.add.executor": "Run",
+    "JUnit.AdderTest.add2.executor": "Run",
+    "JUnit.AdderTest.executor": "Run",
+    "JUnit.AdderTest.subtract.executor": "Run",
+    "JUnit.AdderTest.testTestConverter.executor": "Run",
+    "JUnit.AdderTest.testTestConverterRoundTrip.executor": "Run",
+    "JUnit.AssemblerTest.assemble.executor": "Run",
+    "JUnit.AssemblerTest.assemble2.executor": "Run",
+    "JUnit.AssemblerTest.executor": "Run",
+    "JUnit.AssemblerTest.testInstructions.executor": "Run",
+    "JUnit.BitTest.executor": "Run",
+    "JUnit.BitTest.testAnd.executor": "Run",
+    "JUnit.BitTest.testNot.executor": "Run",
+    "JUnit.BitTest.testOr.executor": "Run",
+    "JUnit.BitTest.testToString.executor": "Run",
+    "JUnit.BitTest.testXor.executor": "Run",
+    "JUnit.MemoryTest.addressAsInt.executor": "Run",
+    "JUnit.MemoryTest.executor": "Run",
+    "JUnit.MemoryTest.load.executor": "Run",
+    "JUnit.MemoryTest.readwrite.executor": "Run",
+    "JUnit.MultiplierTest.executor": "Run",
+    "JUnit.MultiplierTest.multiply.executor": "Run",
+    "JUnit.MultiplierTest.multiply2.executor": "Run",
+    "JUnit.ProcessorTest.assemlby.executor": "Run",
+    "JUnit.ProcessorTest.executor": "Run",
+    "JUnit.ProcessorTest.testAdd.executor": "Run",
+    "JUnit.ProcessorTest.testFibonacci.executor": "Run",
+    "JUnit.ProcessorTest.testPower.executor": "Debug",
+    "JUnit.ShifterTest.executor": "Run",
+    "JUnit.ShifterTest.leftShift.executor": "Run",
+    "JUnit.Word16Test.and.executor": "Run",
+    "JUnit.Word16Test.executor": "Run",
+    "JUnit.Word16Test.getBitN.executor": "Run",
+    "JUnit.Word16Test.not.executor": "Run",
+    "JUnit.Word16Test.or.executor": "Run",
+    "JUnit.Word16Test.xor.executor": "Run",
+    "JUnit.Word32Test.executor": "Run",
+    "JUnit.Word32Test.getBottomHalf.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Udesh/ICSI404/Skeleton/Skeleton",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.ProcessorTest.testFibonacci">
+    <configuration name="MemoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Skeleton" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MemoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Skeleton" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProcessorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessorTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Skeleton" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProcessorTest" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessorTest.testFibonacci" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Skeleton" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProcessorTest" />
+      <option name="METHOD_NAME" value="testFibonacci" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Word32Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Skeleton" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Word32Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProcessorTest.testFibonacci" />
+        <item itemvalue="JUnit.ProcessorTest.testAdd" />
+        <item itemvalue="JUnit.Word32Test" />
+        <item itemvalue="JUnit.ProcessorTest" />
+        <item itemvalue="JUnit.MemoryTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fae5041-3e0f-4235-9555-642934fd52b9" name="Changes" comment="" />
+      <created>1735929487288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735929487288</updated>
+      <workItem from="1735929488199" duration="10755000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AdderTest.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AdderTest.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ALU.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ProcessorTest.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
